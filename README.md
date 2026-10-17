@@ -6,7 +6,7 @@
 `com.kakao.talk`만을 대상으로 동작하며, LSPosed나 별도의 설정 앱을
 필요로 하지 않습니다.
 
-## 크레딧
+## credit
 
 - [AmpleReVanced](https://github.com/AmpleReVanced/revanced-patches) — 이 모듈의 기반이 된 카카오톡 패치입니다
 - [Pine](https://github.com/canyie/pine) — 런타임 후킹 프레임워크입니다
